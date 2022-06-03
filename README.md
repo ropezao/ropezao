@@ -1,5 +1,4 @@
-  ![1Capturar 1 1](https://user-images.githubusercontent.com/97926394/171907535-a492cbce-0696-44d3-a899-b758b9a27275.png)
-
+ 
   <p><strong>Olá sou Rodrigo Ramalho, Estudante de analise e desenvolvimento de sistemas</strong></p>
  
 
@@ -39,5 +38,6 @@
 </p>
 
 <!-- github workflow  -->
+![1Capturar 1 1](https://user-images.githubusercontent.com/97926394/171908032-5018955f-3edf-4f15-8a19-11a382b27d47.png)
 
 
